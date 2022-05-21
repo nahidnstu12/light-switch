@@ -1,0 +1,22 @@
+.white-paper {
+    width: 600px;
+    height: 550px;
+    margin: 50px auto;
+    text-align: center;
+    box-sizing: border-box;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.bulb-off {
+    width: 265px;
+    height: 400px;
+    background: url('img/lightoff.png') no-repeat;
+    margin: auto;
+}
+
+.bulb-on {
+    width: 265px;
+    height: 400px;
+    background: url('img/lighton.png') no-repeat;
+    margin: auto;
+}
